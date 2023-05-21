@@ -1,0 +1,145 @@
+{
+  "headerData": {
+    "logoImgV1": "/images/header/logoV1.svg",
+    "logoImgV2": "/images/header/logoV2.svg",
+    "btnText": "Əlaqə"
+  },
+
+  "navData": [
+    { "name": "Haqqımızda", "href": "#about" },
+    { "name": "Sifariş et", "href": "#order" },
+    { "name": "FAQ", "href": "#faq" }
+  ],
+
+  "heroData": {
+    "title": "Sizin sevimli karqonuz",
+    "sceneImg": "/images/hero/city.svg",
+    "boyImg": "/images/hero/boy.svg",
+    "girlImg": "/images/hero/girl.svg",
+    "truckImg": "/images/hero/truck.svg",
+    "btnText": "Sifariş et"
+  },
+
+  "aboutData": {
+    "title": "Haqqımızda",
+    "subtitle": "Sayt təqdimat məqsədi ilə hazırlanmışdır. Burada gördüyünüz məlumatlar hər hansı karqo şirkətini təmsil etmir, sadəcə proqramçının portfoliosuna əlavə olunacaq, gələcəkdə hər hansı karqo şirkətinin sifarişinə əsasən sayt aktiv fəaliyyətə başlaya bilər.",
+    "text": "Əgər saytın dizaynını bəyəndinizsə və bu tərzdə bir sayta sahib olmaq istəyirsizə heç çəkinmədən müraciət edə bilərisiz.",
+    "boyImg": "/images/about/boy.svg"
+  },
+
+  "howData": {
+    "title": "Sifariş et",
+    "subtitle": "Sayt təqdimat məqsədi ilə hazırlanmışdır. Burada gördüyünüz məlumatlar hər hansı karqo şirkətini təmsil etmir, sadəcə proqramçının portfoliosuna əlavə olunacaq, gələcəkdə hər hansı karqo şirkətinin sifarişinə əsasən sayt aktiv fəaliyyətə başlaya bilər. Əgər saytın dizaynını bəyəndinizsə və bu tərzdə bir sayta sahib olmaq istəyirsizə heç çəkinmədən müraciət edə bilərisiz.",
+    "girlImg": "/images/how/girl.svg"
+  },
+
+  "faqData": {
+    "pretitle": "faq",
+    "title": "Şirkətimiz barədə ən çox verilən suallar və onların cavabları:",
+    "boyImg": "/images/faq/boy.svg",
+    "accordions": [
+      {
+        "question": "Necə sifariş edə bilərəm?",
+        "answer": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, voluptatum. Voluptatem, fugiat?"
+      },
+      {
+        "question": "Nələri sifariş edə bilərəm?",
+        "answer": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, voluptatum."
+      },
+      {
+        "question": "Sifariş necə çatdırılır?",
+        "answer": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, voluptatum. Voluptatem, fugiat?"
+      },
+      {
+        "question": "Alınan məhsulu geri qaytarmaq mümkündür?",
+        "answer": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, voluptatum."
+      },
+      {
+        "question": "Çatdırılmış məhsulu neçə gün ərzində təhvil almalıyam?",
+        "answer": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, voluptatum. Voluptatem, fugiat?"
+      },
+      {
+        "question": "Ofisinizin iş günləri və saatları necədir?",
+        "answer": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, voluptatum."
+      },
+      {
+        "question": "Sizin digər kargo şirkətlərindən fərqiniz nədir?",
+        "answer": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, voluptatum. Voluptatem, fugiat?"
+      },
+      {
+        "question": "Reyslərin cədvəli necədir?",
+        "answer": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, voluptatum."
+      },
+      {
+        "question": "Sənəd daşınması həyata keçirilirmi?",
+        "answer": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, voluptatum. Voluptatem, fugiat?"
+      },
+      {
+        "question": "Daşınması qadağan olan məhsullar hansılardır?",
+        "answer": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, voluptatum."
+      },
+      {
+        "question": "Bölgələrə çatdırılma varmı?",
+        "answer": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, voluptatum. Voluptatem, fugiat?"
+      },
+      {
+        "question": "Ödəniş nə vaxt edilməlidir?",
+        "answer": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, voluptatum."
+      }
+    ]
+  },
+  "testimonialData": {
+    "pretitle": "Müştəri rəyi",
+    "title": "Bizim dəyərli müştərilərimiz",
+    "clients": [
+      {
+        "message": "Çox razı qaldım, indiyə kimi heçbir problem yaşamamışam, sürətli çatdırılır, müştəri xidmətləri bütün sualları tez bir şəkildə araşdıraraq ətraflı şəkildə cavablandırır.",
+        "image": "/images/testimonials/avatar1.png",
+        "name": "İslam"
+      },
+      {
+        "message": "Sadəcə bir dəfə sifariş verib yoxlamaq istəmişdim, o qədər məmnun qaldım ki daimi müştəriyə çevrildim. Operativ xidmətə və sərfəli qiymətə görə sizə təşəkkür edirəm.",
+        "image": "/images/testimonials/avatar2.png",
+        "name": "Tofiq"
+      },
+      {
+        "message": "Müştəriyə xüsusi diqqət göstərirlər, belə bir yüksək səviyyədə xidmət üçün çox sərfəli qiymət təyin etdiklərini düşünürəm, belə davam edin.",
+        "image": "/images/testimonials/avatar3.png",
+        "name": "Aytən"
+      },
+      {
+        "message": "Çox razı qaldım, indiyə kimi heçbir problem yaşamamışam, sürətli çatdırılır, müştəri xidmətləri bütün sualları tez bir şəkildə araşdıraraq ətraflı şəkildə cavablandırır.",
+        "image": "/images/testimonials/avatar1.png",
+        "name": "İslam"
+      },
+      {
+        "message": "Sadəcə bir dəfə sifariş verib yoxlamaq istəmişdim, o qədər məmnun qaldım ki daimi müştəriyə çevrildim. Operativ xidmətə və sərfəli qiymətə görə sizə təşəkkür edirəm.",
+        "image": "/images/testimonials/avatar2.png",
+        "name": "Tofiq"
+      },
+      {
+        "message": "Müştəri məmnuniyyətinə xüsusi diqqət göstərirlər, belə bir yüksək səviyyədə xidmət üçün çox sərfəli qiymət təyin etdiklərini düşünürəm, belə davam edin.",
+        "image": "/images/testimonials/avatar3.png",
+        "name": "Aytən"
+      }
+    ]
+  },
+  "footerData": {
+    "truckImg": "/images/footer/truck.svg",
+    "hillImg": "/images/footer/hill.svg",
+    "text": "Bizim üçün sizin düşüncələriniz çox önəmlidir! ",
+    "logo": "/images/header/logoV2.svg",
+    "links": [
+      { "name": "Haqqımızda", "href": "#about" },
+      { "name": "Sifariş et", "href": "#order" },
+      { "name": "faq", "href": "#faq" }
+    ],
+    "form": {
+      "labelName": "Adınız",
+      "placeholderName": "Adınız",
+      "labelEmail": "Mesajınız",
+      "placeholderEmail": "Your email adddress",
+      "btnText": "Göndər"
+    }
+  }
+}
