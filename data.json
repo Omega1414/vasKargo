@@ -69,23 +69,8 @@
       {
         "question": "Reyslərin cədvəli necədir?",
         "answer": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, voluptatum."
-      },
-      {
-        "question": "Sənəd daşınması həyata keçirilirmi?",
-        "answer": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, voluptatum. Voluptatem, fugiat?"
-      },
-      {
-        "question": "Daşınması qadağan olan məhsullar hansılardır?",
-        "answer": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, voluptatum."
-      },
-      {
-        "question": "Bölgələrə çatdırılma varmı?",
-        "answer": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, voluptatum. Voluptatem, fugiat?"
-      },
-      {
-        "question": "Ödəniş nə vaxt edilməlidir?",
-        "answer": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, voluptatum."
       }
+    
     ]
   },
   "testimonialData": {
