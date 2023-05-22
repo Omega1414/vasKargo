@@ -18,7 +18,7 @@ const Faq = ({ faqData }) => {
   // destructure faq data
   const { pretitle, title, boyImg, accordions } = faqData;
   return (
-    <section className='min-h-[1050px] lg:bg-faq bg-no-repeat bg-right-top pt-[60px] lg:pt-[190px] lg:pb-22 mb-[60px] lg:mb-[160px] w-[100%] lg:px-10 xl:px-40 ll:px-40' id="faq">
+    <section className='min-h-[1150px] lg:bg-faq bg-no-repeat bg-right-top pt-[60px] lg:pt-[190px] lg:pb-24 mb-[60px] lg:mb-[160px] w-[100%] lg:px-10 xl:px-40 ll:px-40' id="faq">
       <div className='container mx-auto'>
         {/* top */}
         <motion.div
