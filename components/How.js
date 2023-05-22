@@ -22,7 +22,7 @@ const How = ({ howData }) => {
        
           {/* image */}
           <motion.div variants={fadeInRight} className='flex-1 max-w-[240px] md:max-w-[360px] lg:max-w-[400px] align-center justify-center mx-auto'>
-            <Image src={girlImg} width={620} height={678} />
+            <Image src={girlImg} width={620} height={678} alt="girlHow" />
           </motion.div>
           {/* text */}
          

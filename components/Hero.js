@@ -59,7 +59,7 @@ const Hero = ({ headerData, heroData, navData }) => {
       variants={girlAnim}
       className='hidden lg:flex absolute top-[260px] xxl:left-[200px]'
     >
-      <Image src={girlImg} width={186} height={475} />
+      <Image src={girlImg} width={186} height={475} alt="girl" />
     </motion.div>
 
     {/* truck image */}
@@ -67,7 +67,7 @@ const Hero = ({ headerData, heroData, navData }) => {
       variants={heroTruckAnim}
       className=' absolute bottom-0 lg:flex ll:hidden lg:bottom-[220px]  -left-[30%] xxl:-left-[10%]'
     >
-      <Image src={truckImg} width={811} height={395} />
+      <Image src={truckImg} width={811} height={395} alt="truck" />
     </motion.div>
 
     {/* boy image */}
@@ -75,7 +75,7 @@ const Hero = ({ headerData, heroData, navData }) => {
       variants={boyAnim}
       className='hidden lg:flex absolute right-[380px] top-[260px] z-10 xxl:right-[700px]'
     >
-      <Image src={boyImg} width={186} height={475} />
+      <Image src={boyImg} width={186} height={475} alt="boyHero" />
     </motion.div>
   </motion.div>
 </section>

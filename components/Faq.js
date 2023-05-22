@@ -38,7 +38,7 @@ const Faq = ({ faqData }) => {
             variants={fadeInRight}
             className='lg:absolute lg:right-0 xl:-right-16 lg:-top-16 w-[240px] sm:w-[220px] lg:w-[300px] xl:w-[400px]'
           >
-            <Image src={boyImg} width={408} height={498} />
+            <Image src={boyImg} width={408} height={498} alt="boyFaq" />
           </motion.div>
         </motion.div>
         {/* accordions list */}

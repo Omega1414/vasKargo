@@ -41,7 +41,7 @@ const Slider = ({ clients }) => {
               <p className=' leading-[30px] font-slab text-justify hyphens-auto px-2 ' lang='de'>&nbsp; {message}</p>
               {/* name & image */}
               <div className='flex items-center gap-x-5'>
-                <Image src={image} width={60} height={60} />
+                <Image src={image} width={60} height={60} alt="image" />
                 <span className='font-semibold font-slab'>{name}</span>
                 <div className='absolute right-4'>
                 <BsArrowRight className='text-4xl text-accent-hover lg:hidden' />

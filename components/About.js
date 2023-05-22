@@ -32,7 +32,7 @@ const About = ({ aboutData }) => {
           </motion.div>
           {/* image */}
           <motion.div variants={fadeInUp} className='flex-1 mt-0 lg:mt-8 md:max-w-[500px] md:justify-center md:align-middle md:mx-auto'>
-            <Image src={boyImg} width={575} height={580} />
+            <Image src={boyImg} width={575} height={580} alt="boy" />
           </motion.div>
         </motion.div>
       </div>
