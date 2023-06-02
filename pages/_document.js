@@ -12,6 +12,19 @@ const Document = () => {
           rel='stylesheet'
         />
        <link href="https://fonts.googleapis.com/css2?family=Lobster&family=Roboto+Condensed:ital,wght@1,300&family=Roboto+Slab&display=swap" rel="stylesheet"/>
+       <meta property="og:url" content="https://vas-kargo.vercel.app/" />
+        <meta property="og:type" content="website" />
+        <meta property="fb:app_id" content="your fb app id" />
+        <meta
+          property="og:title"
+          content="Sizin sevimli karqonuz"
+        />
+        <meta name="twitter:card" content="summary" />
+        <meta
+          property="og:description"
+          content="Sayt təqdimat məqsədi ilə hazırlanmışdır."
+        />
+        <meta property="og:image" content={"https://vas-kargo.vercel.app/images/about/boy.svg"} />
       </Head>
       <body>
         <Main />
